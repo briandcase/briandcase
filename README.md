@@ -2,8 +2,4 @@
 
 ### Hi, I'm Brian 👋
 
-I write code.  Here are a few things I am working on: 
-
-- I'm writing a ReactJS app.
-- 📱  I’m currently working on myCryptoStore, a meta project encompassing cryptocurrency and frontend work..
-- 🤓 I’m currently learning Reactjs.
+This area in progress...
